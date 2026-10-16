@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-16T07:58:41Z",
+    "currentVersion": "0.1.1",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.1.1",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": null,
+      "raw_summary": "### 🔧 Changes\n- Initial commit",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "Initial commit"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
